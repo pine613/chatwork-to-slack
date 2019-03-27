@@ -15,20 +15,20 @@
   ],
   "dependencies": {
     "co": "^4.6.0",
-    "got": "^6.3.0",
-    "mongodb": "^2.1.18",
-    "node-slackr": "^0.1.4",
+    "got": "^9.6.0",
+    "mongodb": "^3.2.2",
+    "node-slackr": "^1.0.1",
     "promise-retry": "^1.1.0",
-    "throat": "^3.0.0",
-    "yargs": "^6.6.0"
+    "throat": "^4.1.0",
+    "yargs": "^13.2.2"
   },
   "devDependencies": {
-    "ava": "^0.18.2",
-    "nock": "^9.0.0",
-    "p-timeout": "^1.0.0",
-    "proxyquire": "^1.7.4",
-    "sinon": "^1.17.3",
-    "xo": "^0.17.0"
+    "ava": "^1.4.1",
+    "nock": "^10.0.6",
+    "p-timeout": "^3.0.0",
+    "proxyquire": "^2.1.0",
+    "sinon": "^7.3.1",
+    "xo": "^0.24.0"
   },
   "engines": {
     "node": ">=6.0.0"
