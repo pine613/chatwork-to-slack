@@ -3,7 +3,7 @@
 [![Build Status](https://img.shields.io/travis/pine/chatwork-to-slack/master.svg?style=flat-square)](https://travis-ci.org/pine/chatwork-to-slack)
 [![Dependency Status](https://img.shields.io/david/pine/chatwork-to-slack.svg?style=flat-square)](https://david-dm.org/pine/chatwork-to-slack)
 [![devDependency Status](https://img.shields.io/david/dev/pine/chatwork-to-slack.svg?style=flat-square)](https://david-dm.org/pine/chatwork-to-slack#info=devDependencies)
-[![MIT](https://img.shields.io/badge/license-MIT-444444.svg?style=flat-square)](http://opensource.org/licenses/MIT)
+[![MIT](https://img.shields.io/badge/license-MIT-444444.svg?style=flat-square)](http://opensource.org/licenses/MIT) [![Greenkeeper badge](https://badges.greenkeeper.io/pine/chatwork-to-slack.svg)](https://greenkeeper.io/)
 
 > Transfer chat messages from ChatWork to Slack
 
